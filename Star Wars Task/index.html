@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Star Wars Character Directory</title>
+    <link rel="stylesheet" href="starwars.css">
+</head>
+<body>
+    <div class="star_wars">
+        <div class="header">
+            <h1>Star Wars Character Directory</h1>
+        </div>
+        <div class="container">
+            <!-- characters would be displayed here -->
+             <div class="characterList">
+                <ul id="character_list" class="character_list"></ul>
+             </div>
+             <!-- character details would be displayed here(modal) -->
+              <div class="modal" id="modal">
+                <div class="modal_content">
+                    <!-- the span is for the modal closure -->
+                    <span id="close" class="close">&cross;</span>
+                    <div class="character_details" id="character_details"></div>
+                </div>
+              </div>
+        </div>
+     </div>
+
+     <script src="starwars.js"></script>
+    
+</body>
+</html>
