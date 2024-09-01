@@ -148,6 +148,14 @@ body{
         font-size: 0.6em;
     }
   }
+
+  @media (max-width: 480px) {
+    body {
+      font-size: 14px;
+      line-height: 1.2;
+    }
+  }
+  
   
   @media (max-width: 768px) {
     .character_list {
