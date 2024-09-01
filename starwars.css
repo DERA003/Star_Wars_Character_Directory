@@ -151,17 +151,26 @@ body{
   
   @media (max-width: 768px) {
     .character_list {
-      grid-template-columns: repeat(3, 1fr);
+      grid-template-columns: repeat(2, 1fr);
+    }
+    .character {
+      width: 150px; /* or a percentage value like 40% */
     }
   }
   
   @media (max-width: 480px) {
     .character_list {
-      grid-template-columns: repeat(2, 1fr);
+      grid-template-columns: repeat(1, 1fr);
     }
     .character {
-      flex-direction: row;
+      width: 100%; /* or a percentage value like 90% */
     }
+    .character_details img{
+      width: 30%;
+      height: 30%;
+      border-radius: 50%;
+      margin-bottom: 20px;
+  }
   }
   
 
