@@ -134,7 +134,7 @@ body{
 
 /* responsiveness */
 @media (max-width: 768px) {
-    header {
+    .header {
       width: 100%;
       font-size: 0.6em;
       text-align: center;
@@ -142,7 +142,7 @@ body{
   }
   
   @media (max-width: 480px) {
-    header {
+    .header {
         text-align:center ;
         width: 100%;
         font-size: 0.6em;
