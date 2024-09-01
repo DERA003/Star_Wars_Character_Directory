@@ -150,19 +150,20 @@ body{
   }
   
   @media (max-width: 768px) {
-      .character-list {
-        grid-template-columns: repeat(2, 1fr);
-        display: flex;
-        flex-direction: column;
-        flex-wrap: wrap;
-      }
+    .character_list {
+      grid-template-columns: repeat(3, 1fr);
     }
-    
-    @media (max-width: 480px) {
-      .character-list {
-        grid-template-columns: 1fr;
-      }
+  }
+  
+  @media (max-width: 480px) {
+    .character_list {
+      grid-template-columns: repeat(2, 1fr);
     }
+    .character {
+      flex-direction: row;
+    }
+  }
+  
 
     @media (max-width:768px){
         .modal_content{
@@ -222,6 +223,8 @@ body{
         border-top: 1px solid #444;
         padding-top: 10px;
       }
+
+  
       
       
       
