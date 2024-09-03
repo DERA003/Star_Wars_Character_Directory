@@ -182,6 +182,12 @@ body{
       border-radius: 5%;
       margin: 5px 0;
   }
+    .character h2{
+      margin-bottom: 5px;
+    }
+    .character button{
+      margin-bottom: 5px;
+    }
     .character_details img{
       width: 30%;
       height: 30%;
