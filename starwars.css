@@ -11,12 +11,13 @@ body{
 
 .header{
     width: 100%;
-    color: white;
+    color: yellow;
     padding: 2rem;
     text-align: center;
     font-weight: 900;
     font-size: larger;
     background-image: url(https://i.pinimg.com/236x/40/d9/fd/40d9fd6541b610cbbf6421531b1dd8d9.jpg);
+    
 }
 
 .character_list{
@@ -169,6 +170,7 @@ body{
   @media (max-width: 480px) {
     .character_list {
       grid-template-columns: repeat(1, 1fr);
+      margin: 10px 5%;
     }
     .character {
       width: 100%;
