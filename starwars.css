@@ -235,6 +235,10 @@ footer {
     }
     .character button{
       margin-bottom: 5px;
+      background-color: #011423;
+      color: yellow;
+      padding: 5px;
+      font-size: 16px;
     }
     .character_details img{
       width: 30%;
