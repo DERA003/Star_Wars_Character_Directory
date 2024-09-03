@@ -230,10 +230,11 @@ footer {
       margin-bottom: 12px;
   }
     .character h2{
-      margin-bottom: 5px;
+      font-size: 900;
+      margin:10px 0;
     }
     .character button{
-      margin-bottom: 10px;
+      margin-bottom: 5px;
     }
     .character_details img{
       width: 30%;
