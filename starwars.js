@@ -1,3 +1,10 @@
+function getRandomImages(){
+const pexelKey = ""
+}
+
+
+
+
 function starWarsCharacters() {
     fetch('https://swapi.dev/api/people')
 	.then(response => response.json())

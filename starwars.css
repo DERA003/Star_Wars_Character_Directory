@@ -194,6 +194,21 @@ body{
         }
     }
 
+    @media (max-width:px){
+      .footer-content{
+        display: flex;
+        flex-direction: column;
+      }
+    }
+
+
+    @media (max-width:480px){
+      .footer-content{
+        display: flex;
+        flex-direction: column;
+      }
+    }
+
     footer {
         background-color: #011423;
         color: #fff;
