@@ -5,8 +5,9 @@
 }
 
 body{
-    font: 600;
+    font: 700;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #ddd;
 }
 
 .header{
@@ -186,7 +187,7 @@ body{
       margin-bottom: 5px;
     }
     .character button{
-      margin-bottom: 5px;
+      margin-bottom: 10px;
     }
     .character_details img{
       width: 30%;
