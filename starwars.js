@@ -20,7 +20,7 @@ function starWarsCharacters() {
         data.results.forEach(character => {
           const  characterHTML = `
               <div class="character">
-                 <img src="${character.gender === 'female' ? 'https://csihospitalbangalore.org/sites/default/files/media/image/female_1.png' : "https://th.bing.com/th/id/OIP.rmim2jYzNpSCslo60INohQHaF9?rs=1&pid=ImgDetMain" }"alt="${character.name}"/>
+                 <img src="${character.gender === 'female' ? 'https://csihospitalbangalore.org/sites/default/files/media/image/female_1.png' : "https://th.bing.com/th/id/R.63133e71714231f5dddbab3e3f34a286?rik=v8llPGItx%2fiF%2bg&pid=ImgRaw&r=0" }"alt="${character.name}"/>
                  <h2>${character.name}</h2>
                  <button>See More...</button>
               </div>
