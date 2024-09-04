@@ -1,5 +1,5 @@
 const images = [
-    "https://vieraboschkova.github.io/swapi-gallery/static/assets/img/people/1.jpg",
+    "https://vignette.wikia.nocookie.net/starwars/images/4/49/Lukeportrait.jpg/revision/latest?cb=20151221055502&path-prefix=ro",
     "https://vieraboschkova.github.io/swapi-gallery/static/assets/img/people/2.jpg",
     "https://th.bing.com/th/id/OIP.Np4LLq_xO4wvlE0F5NoLgwHaKB?rs=1&pid=ImgDetMain",
     "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0bc3f0bd-bb82-4799-bb3f-fb01aa4f6c4d/dbwsppz-1f4af0ad-beef-4f4e-8efe-d4e39207da42.jpg/v1/fit/w_750,h_1124,q_70,strp/darth_vader_by_adenry_dbwsppz-375w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjM5NyIsInBhdGgiOiJcL2ZcLzBiYzNmMGJkLWJiODItNDc5OS1iYjNmLWZiMDFhYTRmNmM0ZFwvZGJ3c3Bwei0xZjRhZjBhZC1iZWVmLTRmNGUtOGVmZS1kNGUzOTIwN2RhNDIuanBnIiwid2lkdGgiOiI8PTE2MDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.xhf4bLLEQI1g41lBG2zLCtCz5zK-PV589QUO1lOnSN4",

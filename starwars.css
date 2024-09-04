@@ -255,6 +255,7 @@ footer {
     color: #fff;
     margin: 2px auto;
     box-shadow: 0 0 10px rgba(0,0,0,0.9);
+    border-radius: 10px;
 }
   
   .character img {
