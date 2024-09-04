@@ -29,7 +29,7 @@ function starWarsCharacters() {
               <div class="character">
                  <img src="${images[index]}"alt="${character.name}"/>
                  <h2>${character.name}</h2>
-                 <button>See More...</button>
+                 <button>View</button>
               </div>
           `
            characterList.innerHTML += characterHTML
