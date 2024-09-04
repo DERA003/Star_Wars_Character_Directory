@@ -229,8 +229,6 @@ footer {
     .character_list {
       grid-template-columns: repeat(1, 1fr);
       margin: 10px 5%;
-      align-items: center;
-      justify-content: center;
     }
     /* .character {
       width: 100%;
@@ -250,10 +248,8 @@ footer {
   .character {
     width: 80%;
     flex-direction: column;
-    align-items: center;
     padding: 10px;
-    height: 100%;
-    justify-content: center;
+    height: 100%; justify-content: center;
     background-color: #011423;
     color: #fff;
 }
