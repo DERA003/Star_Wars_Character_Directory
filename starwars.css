@@ -247,7 +247,7 @@ footer {
   } */
 
   .character {
-    width: 100%;
+    width: 95%;
     flex-direction: column;
     padding: 10px;
     height: 100%; justify-content: center;
