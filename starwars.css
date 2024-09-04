@@ -18,7 +18,7 @@ body{
     font-weight: 900;
     font-size: larger;
     background-image: url(https://wallpapercave.com/wp/Tpiqrsm.jpg);
-    animation: fadeInDown 3s ease-in-out;
+    animation: fadeInDown 6s ease-in-out;
 }
 @keyframes fadeInDown {
   0% {
@@ -254,6 +254,7 @@ footer {
     background-color: #011423;
     color: #fff;
     margin: 2px auto;
+    box-shadow: 0 0 10px rgba(0,0,0,0.9);
 }
   
   .character img {
