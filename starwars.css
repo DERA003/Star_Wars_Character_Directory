@@ -7,7 +7,7 @@
 body{
     font: 700;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #ddd;
+    background-color: #ddddddaa;
 }
 
 .header{
@@ -232,14 +232,14 @@ footer {
     }
     .character {
       width: 100%;
-      height: 80%;
+      height: 70%;
       padding: 0;
       background-color: #fff;
-      box-shadow: 0 0 10px rgba(0,0,0,0.9);
+      box-shadow: 0 0 10px rgba(0,0,0,1.4);
     }
     .character img{
       width:100%;
-      height: 70%;
+      height: 60%;
       margin-top: 5px;
       border-radius: 1px;
       margin-bottom: 12px;
